@@ -31,7 +31,7 @@ Gestion des catégories : Les utilisateurs pourront organiser leurs dépenses en
 - Tests unitaires et tests d'intégration pour assurer la qualité du code
 - Déploiement de l'application sur un serveur web en production
 - Suivi et maintenance de l'application, en ajoutant de nouvelles fonctionnalités et en corrigeant les bugs éventuels.
-- 
+
 #### Resultat
 
 Ce projet de gestion des frais de transports en PHP MVC offrira une solution pratique pour les utilisateurs qui souhaitent mieux contrôler leurs dépenses de déplacement.
